@@ -1,0 +1,4 @@
+repository "First Animation@halatkskn@cloud"
+  path "/"
+    br "/main"
+    co "/main"
